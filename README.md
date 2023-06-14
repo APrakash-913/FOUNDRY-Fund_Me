@@ -12,7 +12,8 @@
 ## Quickstart
 
 ```
-git clone THIS_REPO_LINK
+git clone https://github.com/APrakash-913/FOUNDRY-Fund_Me
+cd Fund_Me_Foundry
 forge build
 ```
 
